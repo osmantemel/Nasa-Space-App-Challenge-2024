@@ -1,6 +1,3 @@
-
-
-
 ## 1. Page
 ![1. Page](./images/demo-presentation_page-0001.jpg)
 
@@ -26,4 +23,4 @@
 ...
 
 ## To download the full PDF:
-[Download PDF](./demo-presentation.pdf.pdf)
+[Download PDF](./demo-presentation.pdf)
