@@ -25,5 +25,5 @@
 
 ...
 
-## Tüm PDF'yi indirmek için:
-[PDF'yi indir](./demo-presentation.pdf.pdf)
+## To download the full PDF:
+[Download PDF](./demo-presentation.pdf.pdf)
